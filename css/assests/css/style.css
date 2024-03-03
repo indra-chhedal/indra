@@ -1,0 +1,29 @@
+div{
+    color: aqua;
+    margin: 50px;
+}
+h3{
+    background-color: rgb(55, 197, 230);
+}
+ /* ID Selector */
+/* #div1{ 
+    background-color: blue;
+} */
+/* Class Selector */
+.bgred{
+    background-color: rgb(62, 10, 250) ;
+}
+.borderblue{
+    border: solid;
+    border-color: rgb(18, 14, 15) ;
+}
+/* Universal  Selector */
+*{
+    background-color: blueviolet;
+}
+
+/* Group Selector */
+h3,p{
+    color: red !important;
+    padding: 50px;
+}

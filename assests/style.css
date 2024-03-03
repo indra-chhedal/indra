@@ -1,0 +1,21 @@
+div{
+    color: rgb(255, 0, 43);
+}
+h3{
+    background-color: brown;
+}
+#test{
+    background-color: rgb(70, 43, 226);
+}
+.bgred{
+    background-color: rgb(0, 255, 17);
+}
+.borderblue{
+    border: solid;
+    border-color: rgb(226, 43, 55);
+}
+/*group selector*/
+h3, p{
+    color: blue;
+    
+}
